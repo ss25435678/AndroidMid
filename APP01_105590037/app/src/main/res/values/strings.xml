@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APP01_105590037</string>
+    <string name="grade">成績:</string>
+    <string name="inputGrade">請於此輸入成績</string>
+    <string name="trans">成績轉換</string>
+    <string name="gradetrans">等第:</string>
+    <string name="input">請在此輸入成績</string>
+    <string name="grade0">分數應介於[0..100]</string>
+    <string name="grade059">F</string>
+    <string name="grade6070">D</string>
+    <string name="grade7080">C</string>
+    <string name="grade8090">B</string>
+    <string name="grade90100">A</string>
+    <string name="grade100">分數應介於[0..100]</string>
+
+</resources>
